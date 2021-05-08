@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MyFavoriteToy.iml" filepath="$PROJECT_DIR$/.idea/MyFavoriteToy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyFavoriteToy.iml" filepath="$PROJECT_DIR$/.idea/modules/MyFavoriteToy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyFavoriteToy.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyFavoriteToy.app.iml" />
     </modules>
   </component>
 </project>
